@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm Siddharth
 
-<!--
-**siddharth116-sudo/siddharth116-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software developer with experience in:
+- 🟣 Python, JavaScript, TypeScript
+- ☁️ Cloud: AWS, Azure, GCP
+- 💻 Web: React, Node.js, Express
+- 🐳 Docker, Kubernetes, CI/CD
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth116-sudo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth116-sudo&layout=compact&theme=radical)
+
+## 🚀 My Projects
+
+- [Awesome Project 1](https://github.com/your-username/project1): Cool description.
+- [Awesome Project 2](https://github.com/your-username/project2): Cool description.
+
+## 📫 Contact Me
+
+- [LinkedIn](https://linkedin.com/in/your-link)
+- Twitter: @yourhandle
+
+---
+
+*I love building open-source projects and collaborating with fellow coders!*
