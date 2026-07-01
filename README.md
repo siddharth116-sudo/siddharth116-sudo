@@ -28,7 +28,7 @@ I ship real projects, not just tutorials.
 
 <br>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=siddharth116-sudo&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=000000&hide_title=true&rank_icon=github)
+![Contribution Graph](https://ghchart.rshah.org/siddharth116-sudo)
 
 <br>
 
