@@ -1,1 +1,1 @@
-Exploring. Curious. Love to build.
+Learning while Building and Updating Myself.
