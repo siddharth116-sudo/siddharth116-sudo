@@ -1,68 +1,158 @@
-<div align="center">
-
 # Siddharth
 
-### Engineer · AI/ML · Cloud · Cybersecurity · Automation
+**Engineer building software products at the intersection of AI, cloud, security and automation.**
 
-I build practical software systems that connect **AI, infrastructure, security, and automation**.
+I like building things from first principles — turning a problem into a system,
+shipping it, breaking it, fixing it, and making it production-ready.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/siddharth116-sudo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-
-</div>
-
----
-
-## About Me
-
-I'm an engineering-focused developer interested in building systems that solve
-real technical problems.
-
-My work sits at the intersection of:
-
-- 🤖 **AI / ML Engineering**
-- ☁️ **Cloud & Infrastructure**
-- 🔐 **Cybersecurity**
-- ⚙️ **Automation & Systems**
-- 🏗️ **Backend & Full-Stack Engineering**
-
-I enjoy going beyond individual features and understanding the complete system:
-
-**architecture → implementation → integration → testing → deployment → operation**
+Currently focused on **AI engineering, cloud infrastructure, cybersecurity,
+and automation**.
 
 ---
 
-## 🚀 Featured Project
+## What I Build
 
-### 🔐 HardSecNet Enterprise
+I am interested in products where software has to do more than display information.
 
-> Security posture monitoring, endpoint auditing, compliance analysis,
-> and controlled remediation platform.
+Systems that:
 
-HardSecNet Enterprise is a full-stack cybersecurity platform designed to
-monitor endpoint security posture from a centralized dashboard.
+- automate real operational work
+- interact with infrastructure
+- make technical decisions from data
+- continuously monitor and respond to changing conditions
+- connect multiple layers of a system into one product
 
-```text
-┌──────────────────────┐
-│   Windows / Linux    │
-│      Endpoints       │
-└──────────┬───────────┘
-           │
-           │ Agent Reports
-           ▼
-┌──────────────────────┐
-│    Python / Flask    │
-│     Control Plane    │
-└───────┬────────┬─────┘
-        │        │
-        ▼        ▼
-   ┌────────┐ ┌────────┐
-   │ MongoDB│ │ Redis  │
-   └────────┘ └────────┘
-        │
-        ▼
-┌──────────────────────┐
-│    React Dashboard   │
-│ Security Posture     │
-│ Compliance & Audits  │
-└──────────────────────┘
+My approach is simple:
+
+**Understand the problem → build the system → test the failure modes → ship.**
+
+---
+
+## Featured Build
+
+### HardSecNet Enterprise
+
+A security operations platform for endpoint security posture monitoring,
+compliance analysis, and controlled remediation.
+
+It started as a security automation problem and evolved into a complete
+system involving endpoint agents, backend services, databases, messaging,
+authentication, compliance checks, and a web dashboard.
+
+**Architecture**
+
+Windows / Linux Endpoints  
+→ Security Agents  
+→ Flask Control Plane  
+→ MongoDB + Redis  
+→ React Dashboard
+
+**Built with**
+
+Python · Flask · React · Vite · MongoDB · Redis · PowerShell · Docker · JWT · RBAC
+
+The project covers:
+
+- endpoint enrollment
+- security auditing
+- compliance checks
+- CIS-aligned controls
+- centralized monitoring
+- audit history
+- authentication
+- role-based access control
+- agent communication
+- controlled remediation
+- verification
+- reporting
+
+[View the project →](https://github.com/siddharth116-sudo/hardsecnet-enterprise)
+
+---
+
+## Engineering
+
+I enjoy working across the stack rather than treating infrastructure,
+backend, frontend, security, and deployment as isolated disciplines.
+
+### Current focus
+
+**AI / ML**
+
+Applied AI · AI-powered automation · intelligent systems
+
+**Cloud**
+
+AWS · Docker · deployment · infrastructure
+
+**Security**
+
+Endpoint security · hardening · identity · compliance · defensive automation
+
+**Software**
+
+Python · APIs · backend systems · databases · distributed systems
+
+---
+
+## How I Think
+
+Good software is not just software that works.
+
+It should be understandable, testable, observable, secure, and capable of
+recovering when something goes wrong.
+
+That means I care about the parts that are easy to ignore:
+
+**failure modes · authentication · data integrity · deployment · testing ·
+observability · documentation**
+
+---
+
+## Building Toward
+
+I am working toward becoming the kind of engineer who can take a product from
+
+**problem → architecture → prototype → production system**
+
+and understand every important layer along the way.
+
+Long term, I want to build technology products of my own.
+
+---
+
+## Currently Learning
+
+AWS and cloud architecture  
+AI/ML engineering  
+Cybersecurity  
+Distributed systems  
+CI/CD and deployment  
+Production-grade backend engineering
+
+---
+
+## Selected Interests
+
+AI infrastructure  
+Cybersecurity products  
+Developer tools  
+Cloud platforms  
+Automation  
+Intelligent systems  
+Infrastructure software
+
+---
+
+## Connect
+
+If you're building something interesting around software, AI, cloud,
+cybersecurity, or automation, I'd be happy to connect.
+
+**GitHub:** https://github.com/siddharth116-sudo
+
+**LinkedIn:** YOUR_LINKEDIN_URL
+
+---
+
+> Build useful things. Understand the system. Ship.
