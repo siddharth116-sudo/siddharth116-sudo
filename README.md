@@ -151,7 +151,7 @@ cybersecurity, or automation, I'd be happy to connect.
 
 **GitHub:** https://github.com/siddharth116-sudo
 
-**LinkedIn:** YOUR_LINKEDIN_URL
+**LinkedIn:** https://www.linkedin.com/in/siddharthmagdum/
 
 ---
 
