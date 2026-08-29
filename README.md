@@ -1,4 +1,4 @@
-# Siddharth
+# Siddharth Magdum
 
 **Engineer building software products at the intersection of AI, cloud, security and automation.**
 
